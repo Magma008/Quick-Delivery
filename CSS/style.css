@@ -315,8 +315,8 @@
 }
 
 .card_text_btns button:first-child {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
     border: 1.5px solid gray;
     border-radius: 5px;
 }
@@ -515,10 +515,6 @@
         grid-template-columns: 1fr;
     }
 
-    .support_text {
-        min-height: none;
-    }
-
     .support_text h2 {
         font-size: 40px;
         line-height: 50px;
@@ -583,10 +579,6 @@
 
     .support_div {
         grid-template-columns: 1fr;
-    }
-
-    .support_text {
-        min-height: 100vh;
     }
 
     .footer_div {
